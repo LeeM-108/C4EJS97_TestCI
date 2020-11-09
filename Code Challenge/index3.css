@@ -1,0 +1,36 @@
+.header {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background: #088364;
+    color: #e6eceb;
+    padding: 0;
+}
+h1 {
+    font-size: 50px;
+}
+.main {
+    padding-top:0;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.main {
+    background: #777777;
+    color: #f8f5f5;
+    padding-top: 20px;
+}
+
+.lotery {
+    display: flex;
+    padding-bottom: 20px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+
+}
+button{
+    cursor: pointer;
+}
